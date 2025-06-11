@@ -1,4 +1,4 @@
-# 🛡️ How to Solve AKIRA Ransomware
+# 🛡️ Jinwoo - How to Solve AKIRA Ransomware
 
 > A practical guide and open-source resource for identifying, analyzing, containing, and recovering from AKIRA ransomware attacks.
 
