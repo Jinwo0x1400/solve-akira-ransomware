@@ -43,3 +43,4 @@ python tools/scanner/akira_scanner.py /path/to/scan
 This repository is licensed under the [MIT License](LICENSE).
 
 > **Disclaimer**: This repository is for educational and response purposes only. Use responsibly.
+> Copyright [Jinwo0x1400](https://github.com/Jinwo0x1400/solve-akira-ransomware/) (c) 2025
