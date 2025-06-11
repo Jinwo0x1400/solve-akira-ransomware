@@ -31,7 +31,20 @@ Use our [YARA rules](tools/yara_rules/akira.yar) or the Python [scanner script](
 # Scan system for AKIRA patterns
 python tools/scanner/akira_scanner.py /path/to/scan
 ```
+### How to change to .exe (for Windows):
+- Install PyInstaller:
+```
+pip install pyinstaller
+```
+### RUN
+```
+pyinstaller --onefile --windowed decryptor_gui.py
+```
+--onefile: create one .exe file
 
+--windowed: remove CMD window (because this is a GUI application)
+
+_____________________________________________________________________
 ## 🧾 Documentation
 
 - [Incident Response](docs/incident_response.md)
