@@ -1,3 +1,5 @@
+### Jinwo0x1400 ###
+
 ### How to Build .exe Automatically
 ## 📦 A. Preparation
 - Install PyInstaller if you haven't already:
