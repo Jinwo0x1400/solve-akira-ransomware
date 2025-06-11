@@ -1,0 +1,7 @@
+Hi, your files have been encrypted by AKIRA Ransomware.
+Do not attempt to decrypt them using third-party tools.
+To recover your data, visit our portal: http://exampleonionaddress.onion
+
+You have 3 days to contact us. After that, the price will increase.
+
+Your Unique ID: [SAMPLE-ID-123456]
